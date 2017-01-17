@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">90dp</dimen>
+
+    <!--here declare new sizes-->
+    <dimen name="time_size">40dp</dimen>
+    <dimen name="time_size_round">45dp</dimen>
+
+    <dimen name="date_size">14dp</dimen>
+    <dimen name="date_size_round">16dp</dimen>
+
+    <dimen name="status_size">18dp</dimen>
+    <dimen name="status_size_round">20dp</dimen>
+
+    <dimen name="bitmap_icon_size">30dp</dimen>
+
+    <!--here we declare the offsets-->
+    <dimen name="time_x_offsets">65dp</dimen>
+    <dimen name="time_y_offsets">80dp</dimen>
+    <dimen name="date_y_offsets">110dp</dimen>
+    <dimen name="date_x_offsets">40dp</dimen>
+    <dimen name="status_x_offsets">75dp</dimen>
+    <dimen name="status_y_offsets">150dp</dimen>
+    <dimen name="icon_y_offsets">125dp</dimen>
+    <dimen name="icon_x_offsets">30dp</dimen>
+    <dimen name="rectangle_y_offsets">100dp</dimen>
+    <dimen name="rectangle_x_offsets">30dp</dimen>
+
+</resources>
